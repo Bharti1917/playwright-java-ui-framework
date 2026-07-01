@@ -1,0 +1,20 @@
+[
+  {
+    "testCase": "Valid Login",
+    "email": "testuser123@example.com",
+    "password": "Test@1234",
+    "expectedResult": "success"
+  },
+  {
+    "testCase": "Invalid Email",
+    "email": "invalid@example.com",
+    "password": "Test@1234",
+    "expectedResult": "error"
+  },
+  {
+    "testCase": "Invalid Password",
+    "email": "testuser123@example.com",
+    "password": "WrongPassword",
+    "expectedResult": "error"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "testCase": "Search T-Shirt",
+    "productName": "Tshirt",
+    "category": "clothing"
+  },
+  {
+    "testCase": "Search Dress",
+    "productName": "Dress",
+    "category": "women"
+  },
+  {
+    "testCase": "Search Jeans",
+    "productName": "Jeans",
+    "category": "clothing"
+  }
+]

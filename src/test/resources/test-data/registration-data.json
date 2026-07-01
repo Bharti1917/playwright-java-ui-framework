@@ -1,0 +1,32 @@
+[
+  {
+    "testCase": "Valid Registration",
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "title": "Mr",
+    "password": "SecurePass@123",
+    "firstName": "John",
+    "lastName": "Doe",
+    "address": "123 Main Street",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "zipcode": "90001",
+    "mobile": "1234567890"
+  },
+  {
+    "testCase": "Female User Registration",
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "title": "Mrs",
+    "password": "Jane@Pass456",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "address": "456 Oak Avenue",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "zipcode": "M5H2N2",
+    "mobile": "9876543210"
+  }
+]
